@@ -9,3 +9,13 @@ font-weight: bolder;
 body{
   background-color:blue;
 }
+
+.block{
+display: block;
+hieght:30px
+border:no boders
+background-colour:blue
+colour:pink
+font size:20px
+  text align:center;
+}
